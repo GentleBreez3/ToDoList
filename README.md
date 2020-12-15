@@ -5,7 +5,6 @@
 1. Node.js
 2. NPM
 3. MongoDB
-4. Any Editor
 
 ## How to use:
 
